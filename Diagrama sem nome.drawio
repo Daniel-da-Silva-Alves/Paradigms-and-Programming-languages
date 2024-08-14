@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2024-08-14T16:32:58.104Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.6.3" etag="GpuSQFUJyLB3rTkp_A3N" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Página-1" id="SgVNGeflCPp9XzVLsDse">
-    <mxGraphModel>
+    <mxGraphModel dx="1080" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="pyuNHEuotB2s35NBtjNu-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pyuNHEuotB2s35NBtjNu-3" target="pyuNHEuotB2s35NBtjNu-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pyuNHEuotB2s35NBtjNu-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pyuNHEuotB2s35NBtjNu-3" target="pyuNHEuotB2s35NBtjNu-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pyuNHEuotB2s35NBtjNu-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pyuNHEuotB2s35NBtjNu-3" target="pyuNHEuotB2s35NBtjNu-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pyuNHEuotB2s35NBtjNu-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pyuNHEuotB2s35NBtjNu-3" target="pyuNHEuotB2s35NBtjNu-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pyuNHEuotB2s35NBtjNu-3" value="&lt;b style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Paradigma Imperativo&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Motivo: &lt;/b&gt;Controle direto do estado do sistema. &lt;b&gt;Surgimento:&lt;/b&gt; &lt;b&gt;1950&lt;/b&gt;&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="280.75" y="60" width="265.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pyuNHEuotB2s35NBtjNu-4" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Verdana&quot;&gt;ABORDAGEM IMPERATIVA&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="248" y="10" width="331" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pyuNHEuotB2s35NBtjNu-6" value="&lt;b&gt;Paradigma Procedural&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Motivo:&lt;/b&gt; Modularização e reutilização do código.&lt;br&gt;&lt;b&gt;Surgimento:&lt;/b&gt; &lt;b&gt;1970&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="30" y="240" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pyuNHEuotB2s35NBtjNu-7" value="&lt;b&gt;Paradigma Orientado a Objetos&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Motivo:&lt;/b&gt;&amp;nbsp;Abstração e reutilização do código.&lt;br&gt;&lt;b&gt;Surgimento:&lt;/b&gt; &lt;b&gt;1980&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="630" y="240" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pyuNHEuotB2s35NBtjNu-8" value="&lt;b&gt;Paradigma Imperativo Estruturado&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Motivo:&lt;/b&gt;&amp;nbsp;Clareza e legibilidade do código&lt;br&gt;&lt;b&gt;Surgimento:&lt;/b&gt; &lt;b&gt;1970&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="230" y="240" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pyuNHEuotB2s35NBtjNu-9" value="&lt;b&gt;Paradigma Modular&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Motivo:&lt;/b&gt;&amp;nbsp;Manutenção e escalabilidade do código.&lt;br&gt;&lt;b&gt;Surgimento:&lt;/b&gt; &lt;b&gt;1980&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="430" y="240" width="180" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
