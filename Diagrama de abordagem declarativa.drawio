@@ -1,9 +1,35 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Página-1" id="hLgUUuZTuKX91o4fBuAG">
-    <mxGraphModel>
+    <mxGraphModel dx="1080" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="e1BZwxHSr9VsH9dEThVD-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;ABORDAGEM DECLARATIVA&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="269" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="e1BZwxHSr9VsH9dEThVD-2" value="&lt;p&gt;&lt;strong&gt;Paradigma Funcional&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Motivo:&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; Tratamento da computação como a avaliação de funções matemáticas, evitando efeitos colaterais e mudanças de estado.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Surgimento:&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; Década de 1950, com o desenvolvimento de linguagens como Lisp.&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="150" y="240" width="260" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="e1BZwxHSr9VsH9dEThVD-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="e1BZwxHSr9VsH9dEThVD-3" target="e1BZwxHSr9VsH9dEThVD-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="134.83333333333337" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e1BZwxHSr9VsH9dEThVD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="e1BZwxHSr9VsH9dEThVD-3" target="e1BZwxHSr9VsH9dEThVD-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e1BZwxHSr9VsH9dEThVD-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="e1BZwxHSr9VsH9dEThVD-3" target="e1BZwxHSr9VsH9dEThVD-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e1BZwxHSr9VsH9dEThVD-3" value="&lt;p&gt;&lt;strong&gt;Paradigma Declarativo&lt;/strong&gt;&lt;/p&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Motivo:&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; Abstrair a complexidade da programação ao permitir que se especifique o que deve ser feito sem se preocupar com o controle do fluxo ou o estado do sistema.&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Surgimento:&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; Surgiu como uma alternativa à programação imperativa para simplificar a expressão da lógica de programas.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="269" y="60" width="290" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="e1BZwxHSr9VsH9dEThVD-4" value="&lt;p&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Paradigma Lógico&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Motivo:&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; Utilizar a lógica formal para definir e resolver problemas sem especificar explicitamente os passos do processo.&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Surgimento:&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; Década de 1970.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="420" y="240" width="280" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="e1BZwxHSr9VsH9dEThVD-6" value="&lt;p&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Paradigma Declarativo de Dados&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Motivo:&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; Descrever o que deve ser feito com dados sem se preocupar com a implementação detalhada da consulta.&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Surgimento:&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; Década de 1970 e 1980.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="600" y="75" width="203" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
